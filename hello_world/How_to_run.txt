@@ -1,0 +1,8 @@
+Open terminal in the same dir and execute these commands to comple and run this program
+
+
+$ g++ hello_world.cpp  -o  hello_world
+
+$ ./hello_world
+
+this will print Hello World in the terminal
